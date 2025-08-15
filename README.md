@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rujulmaind/DSA-Codes/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rujulmaind/DSA-Codes/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
 ## Greedy
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
 ## Math
 |  |
@@ -53,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rujulmaind/DSA-Codes/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
