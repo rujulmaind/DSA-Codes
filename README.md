@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
