@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rujulmaind/DSA-Codes/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/rujulmaind/DSA-Codes/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rujulmaind/DSA-Codes/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rujulmaind/DSA-Codes/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rujulmaind/DSA-Codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rujulmaind/DSA-Codes/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rujulmaind/DSA-Codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
