@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rujulmaind/DSA-Codes/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/rujulmaind/DSA-Codes/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rujulmaind/DSA-Codes/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/rujulmaind/DSA-Codes/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
